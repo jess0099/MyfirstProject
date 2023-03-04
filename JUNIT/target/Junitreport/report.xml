@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="4" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="4" time="0.668">
+<testcase classname="Unknown" name="Test with valid cred" time="0.186">
+<failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given open the browser......................................................undefined
+And enter the valid amit and 12345..........................................skipped
+When click on login btn.....................................................skipped
+Then navigate to home page..................................................skipped
+]]></failure>
+</testcase>
+<testcase classname="Unknown" name="Test with invalid cre" time="0.008">
+<failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given open the browser......................................................undefined
+And enter the invalid rub and 123456........................................skipped
+When click on login btn.....................................................skipped
+Then navigate to home page..................................................skipped
+]]></failure>
+</testcase>
+<testcase classname="Unknown" name="Test with valid cred" time="0.008">
+<failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given open the browser......................................................undefined
+And enter the valid rohit and 12345.........................................skipped
+When click on login btn.....................................................skipped
+Then navigate to home page..................................................skipped
+]]></failure>
+</testcase>
+<testcase classname="Unknown" name="Test with invalid cred" time="0.036">
+<failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given open the browser......................................................undefined
+And enter the invalid sumit and 123456......................................skipped
+When click on login btn.....................................................skipped
+Then navigate to home page..................................................skipped
+]]></failure>
+</testcase>
+</testsuite>
